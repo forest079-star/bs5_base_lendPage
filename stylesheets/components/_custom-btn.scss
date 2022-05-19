@@ -1,0 +1,6 @@
+.btn-spacial{
+  color:#ffffff !important;
+  &.active{
+    box-shadow: $box-shadow-sm;
+  }
+}
